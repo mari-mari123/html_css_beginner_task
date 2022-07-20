@@ -111,4 +111,20 @@ body {
   font-weight: 700;
   line-height: 28px;
   margin: 10px 0 8px 0;
+
+.ContentFeatureGraduateCard__title {
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 28px;
+  color: #000;
+}
+
+.ContentFeatureGraduateCard__name {
+  font-size: 15px;
+  line-height: 26px;
+  color: #000;
+}
+
+.ContentFeatureGraduateCard__icon {
+  width: 10px;
 }
