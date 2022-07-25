@@ -13,6 +13,7 @@ body {
   padding: 20px 40px 40px;
   position: relative;
   text-align: center;
+  /* コンフリクト用です。 */
 }
 
 .ContentFeature__icon {
@@ -32,6 +33,7 @@ body {
   left: 0;
   right: 0;
   width: 100px;
+  /* コンフリクト用です。 */
 }
 
 .ContentFeature__number {
@@ -42,6 +44,7 @@ body {
   letter-spacing: 0.1em;
   margin-top: 15px;
   margin-bottom: 10px;
+  /* コンフリクト用です。 */
 }
 
 .ContentFeature__list {
